@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 - Image Recognition
 - Pattern Recognition
 - Deep Learning Architectures
+- Dataset creation and data antonation
 
 ## 🌱 Currently Learning
 - Data engineering for AI systems
 - Advanced deep learning optimization techniques
+- Large-scale & small-scale dataset training
 
 ## 👯 Collaboration
 I am interested in collaborating on:
@@ -48,3 +50,5 @@ Computer Vision • Document Analysis • OCR • Deep Learning • Image Analys
 
 ## 🧠 Technologies
 Python | PyTorch | TensorFlow | OpenCV | Deep Learning | Computer Vision
+
+⭐ Always exploring new ideas in Computer Vision and AI research.
