@@ -45,3 +45,6 @@ I am interested in collaborating on:
 
 ## ⚡ Research Interests
 Computer Vision • Document Analysis • OCR • Deep Learning • Image Analysis
+
+## 🧠 Technologies
+Python | PyTorch | TensorFlow | OpenCV | Deep Learning | Computer Vision
