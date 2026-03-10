@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Htin Lin Aung
 
 <!--
 **HtinLynnAung/HtinLynnAung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Computer Vision Researcher  
+🔬 Working on handwriting recognition and deep learning models
+
+## 🔭 Current Research
+- Offline Handwriting Recognition
+- Image Recognition
+- Pattern Recognition
+- Deep Learning Architectures
+
+## 🌱 Currently Learning
+- Data engineering for AI systems
+- Advanced deep learning optimization techniques
+
+## 👯 Collaboration
+I am interested in collaborating on:
+- Computer Vision research
+- OCR and handwriting recognition
+- Deep learning research projects
+
+## 💬 Ask Me About
+- Computer Vision
+- Deep Learning
+- CNN architectures
+- OCR systems
+
+## 📫 Contact
+- GitHub: https://github.com/HtinLynnAung
+
+## ⚡ Research Interests
+Computer Vision • Document Analysis • OCR • Deep Learning • Image Analysis
