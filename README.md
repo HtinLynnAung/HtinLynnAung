@@ -19,16 +19,17 @@ Here are some ideas to get you started:
 🔬 Working on handwriting recognition and deep learning models
 
 ## 🔭 Current Research
-- Offline Handwriting Recognition
+- Handwriting Recognition
 - Image Recognition
 - Pattern Recognition
+- Objection detection
 - Deep Learning Architectures
-- Dataset creation and data antonation
+- Dataset creation and data annotation
 
 ## 🌱 Currently Learning
 - Data engineering for AI systems
 - Advanced deep learning optimization techniques
-- Large-scale & small-scale dataset training
+- Large-scale & small-scale dataset training and creation
 
 ## 👯 Collaboration
 I am interested in collaborating on:
@@ -38,6 +39,7 @@ I am interested in collaborating on:
 
 ## 💬 Ask Me About
 - Computer Vision
+- Pattern recognition
 - Deep Learning
 - CNN architectures
 - OCR systems
